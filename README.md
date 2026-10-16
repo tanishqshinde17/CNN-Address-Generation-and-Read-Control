@@ -1,8 +1,3 @@
-# Assignment 3 — CNN Address Generation and Read Control
-
-**Course:** Advanced RTL Modeling & Verification-Driven Design  
-**Program:** IIT Kharagpur — AI-Enabled VLSI Design
-
 ## Objective
 
 Design and simulate an address-generation and read-control block for the first layer of a CNN using four staggered SRAM banks.
@@ -20,7 +15,7 @@ Design and simulate an address-generation and read-control block for the first l
 
 - `cnn_addr_gen.sv` — RTL implementation
 - `tb_cnn_addr_gen.sv` — SystemVerilog testbench
-- `assignment3.log` — Simulation log, if included
+- `cnn_addr_gen.log` — Simulation log, if included
 
 ## Simulation
 
