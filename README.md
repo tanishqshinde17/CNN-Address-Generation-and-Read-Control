@@ -27,7 +27,7 @@ Design and simulate an address-generation and read-control block for the first l
 The design was simulated using Cadence Xcelium.
 
 ```bash
-xrun -64bit -sv -access +rwc cnn_addr_gen.sv tb_cnn_addr_gen.sv -top tb_cnn_addr_gen -l assignment3.log
+xrun -64bit -sv -access +rwc cnn_addr_gen.sv tb_cnn_addr_gen.sv -top tb_cnn_addr_gen -l cnn_addr_gen.log
 ```
 
 ## Verification Results
