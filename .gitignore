@@ -1,0 +1,13 @@
+.simvision/
+xcelium.d/
+waves.shm/
+*.history
+*.log
+*.dsn
+*.svcf
+*.svdu
+*.trn
+xrun.key
+terminal
+.symbolnamelist
+.symbolportinfomap
